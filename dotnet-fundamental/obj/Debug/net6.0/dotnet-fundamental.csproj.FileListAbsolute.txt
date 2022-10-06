@@ -1,0 +1,15 @@
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/bin/Debug/net6.0/dotnet-fundamental
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/bin/Debug/net6.0/dotnet-fundamental.deps.json
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/bin/Debug/net6.0/dotnet-fundamental.runtimeconfig.json
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/bin/Debug/net6.0/dotnet-fundamental.dll
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/bin/Debug/net6.0/dotnet-fundamental.pdb
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/dotnet-fundamental.csproj.AssemblyReference.cache
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/dotnet-fundamental.GeneratedMSBuildEditorConfig.editorconfig
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/dotnet-fundamental.AssemblyInfoInputs.cache
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/dotnet-fundamental.AssemblyInfo.cs
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/dotnet-fundamental.csproj.CoreCompileInputs.cache
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/dotnet-fundamental.dll
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/refint/dotnet-fundamental.dll
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/dotnet-fundamental.pdb
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/dotnet-fundamental.genruntimeconfig.cache
+/home/rifqi/Learning/Coding/Dotnet/dotnet-fundamental/dotnet-fundamental/obj/Debug/net6.0/ref/dotnet-fundamental.dll
